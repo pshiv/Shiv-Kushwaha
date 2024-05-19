@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pshiv&color=brightgreen)
 
-- 💻 I currently work as a *** Fullstack Engineer ****
+- 💻 I currently work as a ** Fullstack Engineer **
 ## Skills Set
 ![HTML5](/assets/svg/html.svg)
 ![CSS3](/assets/svg/css.svg)
