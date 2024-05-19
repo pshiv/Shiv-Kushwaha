@@ -1,5 +1,7 @@
 # Hey, I'm Shiv Kushwaha👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=pshiv&color=brightgreen)
+
 - 💻 I currently work as a *** Fullstack Engineer ****
 ## Skills Set
 ![HTML5](/assets/svg/html.svg)
